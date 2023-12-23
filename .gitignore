@@ -5,3 +5,14 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+
+
+# for CandyEngine
+
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+
+bin-int/
+bin/
